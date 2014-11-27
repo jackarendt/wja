@@ -149,11 +149,16 @@ nav > ul > li:hover > div {
 	padding-left: 10px;
 }
 
+.main-content h3 {
+	color: #888;
+	padding-left: 10px;
+}
+
 .main-content p {
 	padding: 10px;
 }
 
-.main-content ul {
+.no-bullets{
 	list-style-type: none;
 }
 
