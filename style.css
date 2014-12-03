@@ -176,7 +176,7 @@ nav > ul > li:hover > div {
 @media screen and(max-width: 800px) {
 	.head h1 {
 		text-align: center;
-		margin: 0;
+		margin-left: 0;
 		float: none;
 	}
 
